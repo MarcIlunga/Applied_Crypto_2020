@@ -1,0 +1,1037 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb56d24-9fe6-11ea-9af9-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-0bc851599aa91e9bab381dfa5c5b48bd2b946604.jpg",
+                "paste-88099f451ff1ae293817c6d8c86ce25937c5bfdb.jpg",
+                "paste-a45acaa02b2ab15750bf5f46ea7e125f1f1052a6.jpg",
+                "paste-c8b06bbf2221497a8bc8890801034062b71b02d3.jpg",
+                "paste-f2290cea3241a8328ec33450abb72816144d54b7.jpg",
+                "paste-fc79a77c64e3b890a1f8f287a0de4ff44dfde0ba.jpg"
+            ],
+            "mid": "1577715061579",
+            "name": "Stream Ciphers",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is a Pseudo Random Generator?",
+                        "A PRGis an efficient, deterministic algorithm which takes as input a short “seed” and outputs a pseudo-random string. The output is usually longer than the input, and the added length is called the “stretch” of the generator.<br>"
+                    ],
+                    "flags": 0,
+                    "guid": "i36YqVI%uM",
+                    "note_model_uuid": "9bb56d28-9fe6-11ea-aaf3-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Who is PRG Security formaly defined? {{c1::<img src=\"paste-a45acaa02b2ab15750bf5f46ea7e125f1f1052a6.jpg\">}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FD!L~z@sye",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the advantage of PRG adversary?",
+                        "<img src=\"paste-fc79a77c64e3b890a1f8f287a0de4ff44dfde0ba.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "KZ}60|fc~{",
+                    "note_model_uuid": "9bb56d28-9fe6-11ea-aaf3-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Using a PRG to construct a simple stream cipher?<br>",
+                        "<img src=\"paste-88099f451ff1ae293817c6d8c86ce25937c5bfdb.jpg\"><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "B-|o0?+X,3",
+                    "note_model_uuid": "9bb56d28-9fe6-11ea-aaf3-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Key stream Generator<div>{{c1::<img src=\"paste-0bc851599aa91e9bab381dfa5c5b48bd2b946604.jpg\">}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h|^{Mj~>yY",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Stream ciphers from KSGs<br><div>{{c1::<img src=\"paste-c8b06bbf2221497a8bc8890801034062b71b02d3.jpg\">}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J[t*M7F<Rz",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Security of KSG&nbsp;{{c1::<img src=\"paste-f2290cea3241a8328ec33450abb72816144d54b7.jpg\">}}<div><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "tXC:lB/PJ,",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "RC4 statistical weakness {{c1::TODO}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FL~>JBoj0V",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb59443-9fe6-11ea-83b6-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-29cfc864dc340ecaab3a06115476d99c95facb11.jpg",
+                "paste-2af32ece8bcc6c8ca4aa103117ebca8008161c6a.jpg",
+                "paste-4ec97b78769f85fff66c718470b6aaf5ea370bbe.jpg",
+                "paste-5b82602c99727c3fbd7acf78666a92dae3edeb78.jpg",
+                "paste-63394822b785539bdf6714dfc1fd997b726628db.jpg",
+                "paste-a33bb94303962dac465d7234d333a56f38e853af.jpg",
+                "paste-c4c1b28878ead4b52f40f9a0f8c7c6b24120f219.jpg",
+                "paste-cd0b3e80874ef1b4a52120aa91ebaa702d2dbb7c.jpg",
+                "paste-ddf7990be39a74856d41ac9e0fcd30d31d277273.jpg",
+                "paste-f842f4838dd72a6c44ac6392c8443c30801c16c8.jpg"
+            ],
+            "mid": "1577715061584",
+            "name": "Block Ciphers",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is a block Cipher",
+                        "<img src=\"paste-a33bb94303962dac465d7234d333a56f38e853af.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "PGqBXk#A)F",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Known plaintext attack: {{c1::the adversary gets to observemany plaintext/ciphertext pairs (P,C) for a fixed key K: C=EK(P)}}.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cTPnSOY=6;",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Chosen plaintext attack: {{c1:: the adversary gets to choosemany plaintexts P and is given the corresponding ciphertextsCunder a fixed key K, so: C=EK(P).}}<br>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "YgyJj03k(",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Chosen ciphertextattack: {{c1::the adversary gets to choosemany ciphertextsC and is given the corresponding plaintexts Punder a fixed key K, so: P=DK(C).}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "if}c?^@Io|",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The block cipher is said to be a strong-PRP {{c1::if there is no efficient Dthat can tell the difference between (EK,DK) and (π, π-1).}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QCuRx:hk)m",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The block cipher is said to be a {{c1::PRP if there is no efficient D that can tell the difference between&nbsp; \\(e_K\\) and \\(pi\\).}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "kkBL/#[SM8",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "PRP security game based definition",
+                        "<img src=\"paste-5b82602c99727c3fbd7acf78666a92dae3edeb78.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "J#!cjAN.Ey",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SP network: {{c1::each round function is built from a substitution step followed by a permutationstep.}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Gw&~6mQ~+&",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Draw DES feistel network",
+                        "<img src=\"paste-2af32ece8bcc6c8ca4aa103117ebca8008161c6a.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "N<`RjU=>N>",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "DES uses the Feistelconstruction&nbsp; Block size is {{c1::64 bits}}, split into two 32-bit halves L and R. • Key size is {{c2::56 bits}} (with eight parity bits).",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Nx70t*Rl/K",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Draw 3DES",
+                        "<img src=\"paste-c4c1b28878ead4b52f40f9a0f8c7c6b24120f219.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "NDr>,-x6^m",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The AES internal state has {{c1::16 bytes}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "HWV#p]^pa3",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "AES round applies {{c1::SubBytesoperation: byte-wise substitution, i.e. an 8-bit to 8-bit S-box}}. • {{c2::ShiftRowsoperation: shifts rows of array}} • {{c3::MixColumnsoperation: linear transformation to mix columns}} • {{c4::AddRoundKeyoperation: byte-by-byte XOR of round key}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "he3w&et)L{",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CTR mode can be implemented using a {{c1::pseudorandom function}} rather than a pseudorandom permutation.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P)NaFyUaQ;",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Distinct counters for CTR Can achieve distinctness by using one of the following methods: • {{c1::Start with ctr= 0 and change key for each plaintext (often impractical).}} • {{c2::Start with a fresh, random value for ctrfor each plaintext (requires a good source of randomness, need to limit key use to prevent colliding counters arising by chance)}}. • {{c3::Keep track of the last value of ctr used, start from ctr+1in next plaintext (requires state).}} • {{c4::Construct ctr by concatenating a fixed size per plaintext nonce N supplied by the calling application and an internal counter (starting from zero for each new plaintext), so: ctr= N ||&nbsp; 0…00,&nbsp;&nbsp; ctr+1= N || 0….01}},&nbsp; (requires per plaintext nonce to not repeat, hence some kind of state needed in application; also requires limit on&nbsp; plaintext size to prevent internal counter wrap)",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C=.Xhk;yQH",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CTR Security intuition:&nbsp;{{c1::If the block cipher is a PRP, then we can replace its output with output from random permutation π}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "laS]`|deX3",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Formalization of Semantic Security(simulation based)&nbsp;{{c1::For any efficient adversary A given access to encryptions of plaintexts of its choice, whatever A can output can also be output by a simulator S that has access only to the code of A and the lengths of the ciphertexts (but not to the ciphertexts).}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Cs.5al5D)n",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Draw IND-CPA(LoR) and give advantage",
+                        "<img src=\"paste-f842f4838dd72a6c44ac6392c8443c30801c16c8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "DopA&PL>&[",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Draw PRP game",
+                        "<img src=\"paste-cd0b3e80874ef1b4a52120aa91ebaa702d2dbb7c.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "cbR9KK`-wN",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Draw PRF game",
+                        "<img src=\"paste-29cfc864dc340ecaab3a06115476d99c95facb11.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Fdr.[u8IFh",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "the security definitions for {{c1::PRFs}} and {{c2::KSGs:}}&nbsp; are formally identical!",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "NXT^Z[ec{j",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "State the PRF-PRP Switching Lemma",
+                        "<img src=\"paste-ddf7990be39a74856d41ac9e0fcd30d31d277273.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "n|v~]vHRT)",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Relate Distinguishing advantange to Bit guessing",
+                        "Intuition: Pr[b = b'] - 1/2 = 1/2 (Pr[b' = 1|b=1] - Pr[b' = 1B=0])"
+                    ],
+                    "flags": 0,
+                    "guid": "ulo}F+7$w>",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "3 Games in PRF-PRP Switching lemma:&nbsp;{{c1::G0 Challenger uses block cipher}}&nbsp;{{c2::G1 Challenger uses a URP}}&nbsp;{{c3::G2 Challenger uses a URF}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "b=$Ugfx[yp",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Proove the PRP-PRF switching Lemma",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "NY|*tS^R>1",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The difference Lemma as a game hoping: {{c1::If G0 and G1 are identical until bad the |Pr[1|G0] - Pr[1|G1] &lt;= Pr[bad] }} as events&nbsp;{{c2::(W1∧¬Z)&nbsp; occurs if and only if (W2∧¬Z) occurs. then |Pr[W2] − Pr[W1]| ≤ Pr[Z]. <br>}}",
+                        "<img src=\"paste-63394822b785539bdf6714dfc1fd997b726628db.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Jl>hO^VB9T",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Explain the 4 IND-CPA games in the security of CTR mode. And show challengers(i.e Normal CTR to OTP)",
+                        "G0: Normal CTR<div><img src=\"paste-4ec97b78769f85fff66c718470b6aaf5ea370bbe.jpg\"><br></div><div>G1 Replace E with random permutation</div><div><br></div><div>G2: Replace prp with prf</div><div>G3: OTP</div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Nu?XLaiAj3",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb5e23d-9fe6-11ea-ba07-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Modes of Operations and CPA",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb6090a-9fe6-11ea-b06b-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-4c47128fe61306ddb32b429df1821087ee90dd5f.jpg",
+                "paste-90dd80c311b6144143196743d3ea20c3dee55502.jpg",
+                "paste-9a0ff1b90831765becdbbb2810f19360ce94b8d8.jpg",
+                "paste-a09ec57272edba598045c8fb1c7f9704466b5968.jpg",
+                "paste-ab26cf67ffc9b08756f9633cef24ead2a634a8cc.jpg"
+            ],
+            "mid": "1577715061579",
+            "name": "Attacks on CBC",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The vulnerability {{c1::Sweet 32}} in CBC mode is problematic when block size (n) is too small, leading to collisions",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "un|0Br66D(",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "With CBC, assume&nbsp;\\(C_i = C_j\\), The consequence is {{c1::\\(p_i \\oplus c_{i-1} = p_j \\oplus c_{j-1}\\)}}. We can recover {{c2::\\(p_i&nbsp; = c_{i-1} \\oplus p_j \\oplus c_{j-1}\\)}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bx]9t?hmK7",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In the simplified TLS padding scheme, pad() adds&nbsp;{{c1::(t+1)}} copies of byte value&nbsp;{{c2::t}} and t has values in range {{c3::0, n/8}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ldggf},pdw",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In a Padding oracle against simplified TLS padding, show steps to recover last byte",
+                        "<img src=\"paste-ab26cf67ffc9b08756f9633cef24ead2a634a8cc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "hY,%9Q[bL#",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In CBC repeated {{c1::IVs}} lead to an attack on the {{c2::IND-CPA}} Security",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "tne}^U4@h*",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Show 2-queries attack on CBC with predictable IVs",
+                        "<img src=\"paste-4c47128fe61306ddb32b429df1821087ee90dd5f.jpg\"><div>i.e in second querries send twice the same value</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "HUQA:itiI",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Beast}} is a plaintext recovery attack against&nbsp;{{c2::CBC}} with&nbsp;{{c3::predictable IVs}}<br>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k7(sL%>*|#",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In beast attack, Adversary is interested in byte {{c1::\\(p_{15}\\)}}&nbsp; for underlying some block Ct. Assume he knows all the other bytes in this block.<br>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Ev@ae_F>RX",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Show the payload to recover byte 15 for Beast attack&nbsp;",
+                        "<img src=\"paste-9a0ff1b90831765becdbbb2810f19360ce94b8d8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "fkQsA{?gh0",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Show the sliding window for full plaintext recovery in Beast",
+                        "<img src=\"paste-a09ec57272edba598045c8fb1c7f9704466b5968.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "KA<!iJqW=O",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How does Beast work in the browser",
+                        "<img src=\"paste-90dd80c311b6144143196743d3ea20c3dee55502.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "G+C{LPjs3L",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Describe CBC bitlip on IPsec.",
+                        "• Bit flipping on protocol field and source address, checksum. • Attacker than injects modified datagram into network. • Inner packet decrypted by gateway and forwarded to endhost. • End-host generates ICMP “protocol unreachable” message in response to modified protocol field in header with payload in plaintext"
+                    ],
+                    "flags": 0,
+                    "guid": "mXnO}cB>GG",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb63009-9fe6-11ea-8150-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Hash functions",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "An n-bit(cryptographic) hash function is an {{c1::efficiently computable function \\(H: \\{0,1\\}^* \\to \\{0, 1\\}^n\\)}} mapping an arbitrary length input string to a fixed-length hash value (message digest).",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i,Vq%c]mS}",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Give some application of hash functions<br>",
+                        "• message fingerprinting • file integrity checking, file sharing • signature schemes (hash-then-sign paradigm) • message authentication codes (e.g., HMAC) • key derivation • e.g., to derive keys from ‘raw data’ in Diffie-Hellman key exchange • password hashing • commitment schemes • pseudorandom number generators • stream ciphers (hash function in counter mode) • Bitcoin (proof-of-work schemes) • post-quantum signature schemes."
+                    ],
+                    "flags": 0,
+                    "guid": "zBeF:LD|Y)",
+                    "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash function,&nbsp;{{c1::pre-image resistance (one-wayness)}}: given h, it is infeasible to find {{c2::m∈{0, 1}∗ such that H(m) = h}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "IfMK;w7&qe",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash, {{c1::second pre-image resistance}}: {{c2::given m1, it is infeasible to find m2 ≠ m1 such that H(m1) = H(m2)}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Is2.!T(-=D",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash:&nbsp;{{c1::collision resistance}}: {{c2::it is infeasible to find a pair of messages m1 ≠ m2 such that H(m1) = H(m2).}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qjgO&Td|Um",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash,&nbsp;{{c1::non-correlation}}: {{c2::inputs and outputs of H should not be correlated.}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "I^:e43#jQD",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash, {{c1::near-collision resistance}}: it is infeasible to find {{c2::m1 ≠ m2 such that H(m1) ≈ H(m2)}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v`~imFlypM",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For a hash, {{c1::partial pre-image resistance}}: {{c2::given H(m), it is infeasible to recover any partial information about m}}.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "eKB}$;;Yhl",
+                    "note_model_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb656fb-9fe6-11ea-a6aa-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "MACs",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9bb67ddb-9fe6-11ea-bd39-a86daa800b19",
+            "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Authenticated Encryption",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "9bb51f3e-9fe6-11ea-90a5-a86daa800b19",
+    "deck_config_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "9bb54634-9fe6-11ea-ac98-a86daa800b19",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "latex-ba7523871b75e706db0c5df71ee517480937e0ea.png",
+        "paste-04320a5e20f94617d6e7902d9b7d70ec642edd85.jpg"
+    ],
+    "name": "Applied Crypto 2020",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9bb56d28-9fe6-11ea-aaf3-a86daa800b19",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9bb56d2b-9fe6-11ea-884f-a86daa800b19",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-04320a5e20f94617d6e7902d9b7d70ec642edd85.jpg\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O6;>]TnZF@",
+            "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "[latex]$\\mathcal{E}$[/latex]<br>",
+                "Symmetric encryption&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "HZs8cth7mS",
+            "note_model_uuid": "9bb54637-9fe6-11ea-8971-a86daa800b19",
+            "tags": []
+        }
+    ]
+}
